@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 14 14:57:08 2025
-
-@author: duaijalshammari
-"""
 
 # A computing class that can calculate addition, subtraction, multiplication, and division
 
