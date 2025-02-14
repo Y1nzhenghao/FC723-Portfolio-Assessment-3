@@ -1,7 +1,7 @@
 import math
 
 class PowerRoot:
-    """ Provides square and square root calculation function """
+    """ Provides square and square root calculation function. """
     
     def __init__(self):
         pass   # Initialization method, which can be extended to store historical calculation data and other functions
